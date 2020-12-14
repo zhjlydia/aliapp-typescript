@@ -1,0 +1,8 @@
+
+<view class="page-home">
+  <view class="bottom-btn-wrap">
+    <auth-button onAuthSuccess="authSuccess">
+      <view class="bottom-btn">添加课程</view>
+    </auth-button>
+  </view>
+</view>

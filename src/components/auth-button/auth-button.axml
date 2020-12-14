@@ -1,0 +1,3 @@
+<button class="auth-button" hover-class="none" onTap="auth">
+    <slot />
+</button>

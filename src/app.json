@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/web-view/web-view"
+  ],
+  "window": {
+    "defaultTitle": "呵呵哒",
+    "titleBarColor": "#fff"
+  }
+}

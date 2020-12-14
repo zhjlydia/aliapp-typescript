@@ -1,0 +1,4 @@
+<!-- API-DEMO page/component/webview/webview.axml -->
+<view class="page">
+  <web-view src="https://test18m.schoolpal.cn" onMessage="onmessage"></web-view>
+</view>
